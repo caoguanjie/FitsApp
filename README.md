@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/caoguanjie/FitsApp-template/fitsapp.png" style="width:150px"/>
+<img src="https://github.com/caoguanjie/FitsApp-template/blob/master/fitsapp.png" style="width:150px"/>
     <h1>Fits App</h1>
 </div>
 
