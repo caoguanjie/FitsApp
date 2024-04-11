@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://s2.loli.net/2023/10/27/WzQ4JLNV5epKh6X.png" style="width:150px"/>
+<img src="https://github.com/caoguanjie/FitsApp-template/fitsapp.png" style="width:150px"/>
     <h1>Fits App</h1>
 </div>
 
 
 ## 介绍
 
-[Fitsapp](https://github.com/chansee97/nova-admin)是一个基于Vue3、Vite5、Typescript、Ioinc7、Vant4, 简洁干净APP开发框架，用简单的方式实现完整功能，并尽可能的考虑代码规范，易读易理解无过度封装，方便二次开发。
+[Fitsapp](https://github.com/caoguanjie/FitsApp-template)是一个基于Vue3、Vite5、Typescript、Ioinc7、Vant4, 简洁干净APP开发框架，用简单的方式实现完整功能，并尽可能的考虑代码规范，易读易理解无过度封装，方便二次开发。
 
 ## 特性
 - 基于Vue3、Vite5、TypeScript、Ioinc7、Vant4等最新技术栈开发
@@ -55,7 +55,7 @@
 ## 安装
 ```sh
 # 下载项目
-git clone https://github.com/caoguanjie/fitsadmin.git
+git clone https://github.com/caoguanjie/FitsApp-template.git
 
 # 进入项目目录
 cd fitsadmin
